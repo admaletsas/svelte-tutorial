@@ -1,5 +1,5 @@
 ## Svelte 4+ Tutorial
-This repository contains code examples for the [Svelte 4: Zero To Mastery](https://dev.to) post.
+This repository contains code examples for the [Svelte 4: Zero To Mastery](https://dev.to/admaletsas/svelte-4-zero-to-mastery-165f) post.
 
 **To execute these examples:**
  1. npm install
